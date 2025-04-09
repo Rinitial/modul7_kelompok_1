@@ -1,0 +1,25 @@
+{
+  "firstName": "Raditya",
+  "lastName": "Putra",
+  "gender": "male",
+  "age": 20,
+  "address": {
+    "streetAddress": "GedeBage",
+    "city": "Bandung",
+    "state": "West Java"
+  },
+  "courses": [
+    {
+      "code": "CRI2C4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "CCK2FAB4",
+      "name": "Arsitektur dan Desain Perangkat Lunak"
+    },
+    {
+      "code": "CCK2HAB4",
+      "name": "Basis Data"
+    }
+  ]
+}
