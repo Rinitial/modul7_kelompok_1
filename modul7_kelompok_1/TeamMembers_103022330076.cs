@@ -35,12 +35,12 @@ namespace TeamMembers_103022330076
 
     }
 
-    public class PROgram
-    {
-        public static void Main(String[] args)
-        {
-            TeamMembers_103022330076 teamMEMBERS = new TeamMembers_103022330076();
-            teamMEMBERS.ReadJSON();
-        }
-    }
+    //public class PROgram
+    //{
+    //    public static void Main(String[] args)
+    //    {
+    //        TeamMembers_103022330076 teamMEMBERS = new TeamMembers_103022330076();
+    //        teamMEMBERS.ReadJSON();
+    //    }
+    //}
 }

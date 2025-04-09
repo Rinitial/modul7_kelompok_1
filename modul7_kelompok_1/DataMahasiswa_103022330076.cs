@@ -40,11 +40,11 @@ public class DataMahasiswa_103022330076
 	}
 }
 
-public class ProGRAM
-{
-    public static void Main(string[] args)
-    {
-        DataMahasiswa_103022330076 dataMHS = new DataMahasiswa_103022330076();
-        dataMHS.ReadJSON();
-    }
-}
+//public class ProGRAM
+//{
+//    public static void Main(string[] args)
+//    {
+//        DataMahasiswa_103022330076 dataMHS = new DataMahasiswa_103022330076();
+//        dataMHS.ReadJSON();
+//    }
+//}
