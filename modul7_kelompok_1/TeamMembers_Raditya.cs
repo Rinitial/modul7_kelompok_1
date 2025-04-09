@@ -31,13 +31,13 @@ namespace modul7_kelompok_1
 
         public void ReadJson()
         {
-            string jsonData = File.ReadAllText("jurnal7_1_103022330026.json");
+            string jsonData = File.ReadAllText("jurnal7_2_103022330026.json");
             var members = JsonSerializer.Deserialize<Members>(jsonData);
             Console.WriteLine("List Anggota : ");
             for (int i = 0; i < members.members.Count; i++)
             {
                 Console.WriteLine("NIM : " + members.members[i].nim);
-                Console.WriteLine("Nama Anggota Ke - " + (i + 1) + " : " + members.members[i].nama.firstName + " " + members.members[i].nama.firstName)
+                Console.WriteLine("Nama Anggota Ke - " + (i + 1) + " : " + members.members[i].nama.firstName + " " + members.members[i].nama.lastName);
                 Console.WriteLine("Gender : " + members.members[i].gender);
                 Console.WriteLine("Age : " + members.members[i].age);
             }
