@@ -1,0 +1,39 @@
+{
+  "members" : [
+    {
+       "firstName": "Daniyal",
+       "lastName": "Arshaq Sudrajat",
+       "gender": "laki-laki",
+       "age": 19,
+       "nim": "103022330076"
+    },
+    {
+       "firstName": "Admiral",
+       "lastName": "Manan Badawi",
+       "gender": "laki-laki",
+       "age": 19,
+       "nim": "103022300060"
+    },
+    {
+       "firstName": "Alif",
+       "lastName": "Satria Waskita",
+       "gender": "laki-laki",
+       "age": 19,
+       "nim": "103022300133 "
+    },
+    {
+       "firstName": "Raditya",
+       "lastName": "Maheswara Putra",
+       "gender": "laki-laki",
+       "age": 19,
+       "nim": "103022330026 "
+    },
+    {
+       "firstName": "Azka",
+       "lastName": "Nadzif Athallah",
+       "gender": "laki-laki",
+       "age": 19,
+       "nim": "103022300165"
+    },
+  ]
+}
