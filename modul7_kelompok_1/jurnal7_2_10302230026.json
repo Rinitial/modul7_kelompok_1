@@ -1,0 +1,25 @@
+{
+  "members": [
+    {
+      "firstName": "Raditya",
+      "lastName": "Putra",
+      "gender": "male",
+      "age": 20,
+      "nim": "103022330026"
+    },
+    {
+      "firstName": "Daniyal",
+      "lastName": "Arsyaq",
+      "gender": "male",
+      "age": 20,
+      "nim": "103022330076"
+    },
+    {
+      "firstName": "Admiral",
+      "lastName": "Badawi",
+      "gender": "male",
+      "age": 20,
+      "nim": "1030223300"
+    }
+  ]
+}

@@ -15,9 +15,9 @@ namespace modul7_kelompok_1
             public Nama nama { get; set; }
             public string gender { get; set; }
             public int age { get; set; }
-            public Address address { get; set; 
+            public Address address { get; set; }
             public List<Course> courses { get; set; }
-        
+        }
 
         public class Course()
         {
